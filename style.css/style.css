@@ -1,0 +1,22 @@
+p {
+    color: blue;
+}
+
+li {
+    color: green;
+}
+
+.bold-item {
+    font-weight: bold;
+}
+
+.priority {
+    color: purple;
+}
+
+#main-title {
+    color: red;
+}
+#priority-example {
+    color: orange;
+}
